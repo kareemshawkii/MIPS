@@ -1,0 +1,99 @@
+B:/prog/MIPS/PCAdder.v {1 {vlog -work work -stats=none B:/prog/MIPS/PCAdder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module PCadder
+
+Top level modules:
+	PCadder
+
+} {} {}} B:/prog/MIPS/ALUControl.v {1 {vlog -work work -stats=none B:/prog/MIPS/ALUControl.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ALUControl
+
+Top level modules:
+	ALUControl
+
+} {} {}} B:/prog/MIPS/BranchTarAddress.v {1 {vlog -work work -stats=none B:/prog/MIPS/BranchTarAddress.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module BranchTargetAddress
+
+Top level modules:
+	BranchTargetAddress
+
+} {} {}} B:/prog/MIPS/DataMemory.v {1 {vlog -work work -stats=none B:/prog/MIPS/DataMemory.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module DataMemory
+
+Top level modules:
+	DataMemory
+
+} {} {}} B:/prog/MIPS/DataPath.v {1 {vlog -work work -stats=none B:/prog/MIPS/DataPath.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module DataPath
+
+Top level modules:
+	DataPath
+
+} {} {}} B:/prog/MIPS/TestBench.v {1 {vlog -work work -stats=none B:/prog/MIPS/TestBench.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module testbench
+
+Top level modules:
+	testbench
+
+} {} {}} B:/prog/MIPS/MuxNBit_2_1.v {1 {vlog -work work -stats=none B:/prog/MIPS/MuxNBit_2_1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module muxNbit_2_1
+
+Top level modules:
+	muxNbit_2_1
+
+} {} {}} B:/prog/MIPS/ProgramCounter.v {1 {vlog -work work -stats=none B:/prog/MIPS/ProgramCounter.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ProgramCounter
+
+Top level modules:
+	ProgramCounter
+
+} {} {}} B:/prog/MIPS/MuxNBit_3_1.v {1 {vlog -work work -stats=none B:/prog/MIPS/MuxNBit_3_1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module muxNbit_3_1
+
+Top level modules:
+	muxNbit_3_1
+
+} {} {}} B:/prog/MIPS/InstructionMemory.v {1 {vlog -work work -stats=none B:/prog/MIPS/InstructionMemory.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module InstructionMemory
+
+Top level modules:
+	InstructionMemory
+
+} {} {}} B:/prog/MIPS/RegisterFile.v {1 {vlog -work work -stats=none B:/prog/MIPS/RegisterFile.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module RegisterFile
+
+Top level modules:
+	RegisterFile
+
+} {} {}} B:/prog/MIPS/MainALU.v {1 {vlog -work work -stats=none B:/prog/MIPS/MainALU.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module MainALU
+
+Top level modules:
+	MainALU
+
+} {} {}} B:/prog/MIPS/SignExtend.v {1 {vlog -work work -stats=none B:/prog/MIPS/SignExtend.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module SignExtend
+
+Top level modules:
+	SignExtend
+
+} {} {}} B:/prog/MIPS/ControlUnit.v {1 {vlog -work work -stats=none B:/prog/MIPS/ControlUnit.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ControlUnit
+
+Top level modules:
+	ControlUnit
+
+} {} {}}
